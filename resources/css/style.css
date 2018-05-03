@@ -9,8 +9,43 @@ h1 {font-family: verdana, sans-serif;
   text-align: center;
 }
 
-.link {font-family: verdana, sans-serif;
+h2 {font-family: verdana, sans-serif;
+  font-weight: normal;
+  color: white;
+  font-size: 42px;
+  text-align: center;
+}
+
+p {font-family: verdana, sans-serif;
+  font-weight: normal;
+  color: grey;
+  font-size: 21px;
+  text-align: center;
+}
+
+
+a, .link {font-family: verdana, sans-serif;
   font-size: 16px;
   color: aquamarine;
   text-align: center;
+}
+
+video {margin-left: auto;
+    margin-right: auto;
+    display: block
+}
+
+img {display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: auto%;
+  }
+
+
+  #phoneicon {padding-top: 40px;
+    }
+
+.copyright {text-align: right;
+  color: grey;
+  font-size: 10px;
 }
